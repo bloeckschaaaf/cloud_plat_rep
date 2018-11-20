@@ -1,2 +1,2 @@
 # cloud_plat_rep
-first trial for sap cloud
+first trial for [openSAP](http://opensap.com) sap cloud
